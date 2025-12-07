@@ -6,7 +6,7 @@ body {
 }
 
 .textbox {
-  width: 300px;
+  width: 100px;
   height: auto;
   background-color: rgba(0, 0, 0, 0.5);
 }
