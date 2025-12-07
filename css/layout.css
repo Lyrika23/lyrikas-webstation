@@ -1,6 +1,6 @@
 body {
   background-image: url("../img/haltestelle-dithered.png");
-  background-size: cover;
+  background-size: auto;
   background-position: center;
   background-repeat: no-repeat;
 }
