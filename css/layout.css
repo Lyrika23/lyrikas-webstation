@@ -4,3 +4,9 @@ body {
   background-position: left top;
   background-repeat: no-repeat;
 }
+
+.textbox {
+  width: 80wv;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.5);
+}
